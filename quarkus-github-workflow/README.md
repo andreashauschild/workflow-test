@@ -58,3 +58,4 @@ If you want to learn more about building native executables, please consult http
 WebSocket communication channel starter code
 
 [Related guide section...](https://quarkus.io/guides/websockets)
+....
